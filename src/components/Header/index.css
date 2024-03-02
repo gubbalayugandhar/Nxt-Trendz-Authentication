@@ -1,0 +1,35 @@
+/* Write your CSS code here */
+.navcontainer {
+  padding-left: 20px;
+  padding-right: 20px;
+  height: 11vh;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid black;
+}
+.imagelogo {
+  height: 50px;
+  width: 220px;
+}
+.detalis {
+  display: flex;
+}
+.elements {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.lielement {
+  list-style-type: none;
+  padding-right: 14px;
+  font-size: 24px;
+}
+.logoutbtn {
+  background-color: #0b69ff;
+  color: #ffffff;
+  height: 35px;
+  width: 120px;
+  border-radius: 10px;
+  border: 0px;
+}
